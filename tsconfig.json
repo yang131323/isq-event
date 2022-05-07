@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "src",
+        "outDir": "dist",
+        "noEmitOnError": true,
+        "module": "esnext",
+        "baseUrl": ".",
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "noImplicitReturns": true,
+        "declaration": true,
+        "declarationDir": "types",
+        "strictNullChecks": true,
+        "sourceMap": true,
+        "target": "ES5",
+        "moduleResolution": "node",
+        "lib": ["Es2020"],
+        "types": []
+    },
+}
